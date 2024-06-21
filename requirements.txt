@@ -1,0 +1,13 @@
+langchain
+accelerate
+tiktoken
+chromadb
+numpy
+ipykernel
+matplotlib
+umap-learn
+pandas
+langchain_openai
+unstructured
+langchain_community
+python-dotenv
